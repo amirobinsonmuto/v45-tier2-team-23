@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Map = () => {
-  return (
-    <div>
-      Map
-    </div>
-  )
-}
+  return <div className="border p-64">Map</div>;
+};
 
-export default Map
+export default Map;
